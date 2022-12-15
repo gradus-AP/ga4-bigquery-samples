@@ -173,6 +173,6 @@ GROUP BY
 
 ## References
 
-[[GA4] BigQuery Export スキーマ](https://support.google.com/analytics/answer/7029846?hl=ja)
-[Google アナリティクス 4 のイベントデータのエクスポートに関する基本的なクエリ](https://developers.google.com/analytics/bigquery/basic-queries)
-[GA4用のBigQuery クエリ集(GA4ガイド)](https://www.ga4.guide/related-service/big-query/query-writing/)
+- [[GA4] BigQuery Export スキーマ](https://support.google.com/analytics/answer/7029846?hl=ja)
+- [Google アナリティクス 4 のイベントデータのエクスポートに関する基本的なクエリ](https://developers.google.com/analytics/bigquery/basic-queries)
+- [GA4用のBigQuery クエリ集(GA4ガイド)](https://www.ga4.guide/related-service/big-query/query-writing/)
